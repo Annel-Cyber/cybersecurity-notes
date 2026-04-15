@@ -16,9 +16,12 @@ Use dirb to find hidden directoies on a target website
 
 ## What I Learned
 -Attackers use directory brute forcing to find hidden files
+
 -Websites may expose important data if not secured
 
 ## How To Fix (Defense)
 -Remove unused directories
+
 -Use proper access controls
+
 -Disable directory listing
