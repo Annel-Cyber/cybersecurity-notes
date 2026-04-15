@@ -1,7 +1,7 @@
 # Offensive Secuirty - Dirb (TryHackMe)
 
 ## Objective
-use dirb to find hidden directoies on a target website
+Use dirb to find hidden directoies on a target website
 
 ## Tools Used
 -Dirb
