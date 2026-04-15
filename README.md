@@ -1,5 +1,9 @@
 # cybersecurity-notes
 Aspiring Cybersecurity Analyst | Hands-on labs (TryHackMe, Hack The Box) | Learning networking &amp; security tools 
+
+## Cisco Networking Academy
+This repository contains notes on basic networking.
+
 ## TryHackMe Write-Ups
 This repository contains my cybersecuirty learning journey using TryHackMe.
 
